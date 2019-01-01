@@ -17,11 +17,11 @@
 - [x] https://www.acmicpc.net/problem/11719
 - [x] https://www.acmicpc.net/problem/11720
 - [x] https://www.acmicpc.net/problem/11721
-- [ ] https://www.acmicpc.net/problem/2741
-- [ ] https://www.acmicpc.net/problem/2742
-- [ ] https://www.acmicpc.net/problem/2739
-- [ ] https://www.acmicpc.net/problem/1924
-- [ ] https://www.acmicpc.net/problem/8393
+- [x] https://www.acmicpc.net/problem/2741
+- [x] https://www.acmicpc.net/problem/2742
+- [x] https://www.acmicpc.net/problem/2739
+- [x] https://www.acmicpc.net/problem/1924
+- [x] https://www.acmicpc.net/problem/8393
 - [ ] https://www.acmicpc.net/problem/10818
 - [ ] https://www.acmicpc.net/problem/2438
 - [ ] https://www.acmicpc.net/problem/2439
