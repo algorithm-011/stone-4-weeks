@@ -4,19 +4,19 @@
 
 ## 입출력
 
-- [ ] https://www.acmicpc.net/problem/2557
-- [ ] https://www.acmicpc.net/problem/1000
-- [ ] https://www.acmicpc.net/problem/2558
-- [ ] https://www.acmicpc.net/problem/10950
-- [ ] https://www.acmicpc.net/problem/10951
-- [ ] https://www.acmicpc.net/problem/10952
-- [ ] https://www.acmicpc.net/problem/10953
-- [ ] https://www.acmicpc.net/problem/11021
-- [ ] https://www.acmicpc.net/problem/11022
-- [ ] https://www.acmicpc.net/problem/11718
-- [ ] https://www.acmicpc.net/problem/11719
-- [ ] https://www.acmicpc.net/problem/11720
-- [ ] https://www.acmicpc.net/problem/11721
+- [x] https://www.acmicpc.net/problem/2557
+- [x] https://www.acmicpc.net/problem/1000
+- [x] https://www.acmicpc.net/problem/2558
+- [x] https://www.acmicpc.net/problem/10950
+- [x] https://www.acmicpc.net/problem/10951
+- [x] https://www.acmicpc.net/problem/10952
+- [x] https://www.acmicpc.net/problem/10953
+- [x] https://www.acmicpc.net/problem/11021
+- [x] https://www.acmicpc.net/problem/11022
+- [x] https://www.acmicpc.net/problem/11718
+- [x] https://www.acmicpc.net/problem/11719
+- [x] https://www.acmicpc.net/problem/11720
+- [x] https://www.acmicpc.net/problem/11721
 - [ ] https://www.acmicpc.net/problem/2741
 - [ ] https://www.acmicpc.net/problem/2742
 - [ ] https://www.acmicpc.net/problem/2739
