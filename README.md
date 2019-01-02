@@ -28,11 +28,11 @@
 - [x] https://www.acmicpc.net/problem/2440
 - [x] https://www.acmicpc.net/problem/2441
 - [x] https://www.acmicpc.net/problem/2442
-- [ ] https://www.acmicpc.net/problem/2445
-- [ ] https://www.acmicpc.net/problem/2522
-- [ ] https://www.acmicpc.net/problem/2446
-- [ ] https://www.acmicpc.net/problem/10991
-- [ ] https://www.acmicpc.net/problem/10992
+- [x] https://www.acmicpc.net/problem/2445
+- [x] https://www.acmicpc.net/problem/2522
+- [x] https://www.acmicpc.net/problem/2446
+- [x] https://www.acmicpc.net/problem/10991
+- [x] https://www.acmicpc.net/problem/10992
 
 ## DP
 
