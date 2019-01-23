@@ -72,9 +72,9 @@
 - [ ] https://www.acmicpc.net/problem/9012
 - [ ] https://www.acmicpc.net/problem/10799
 - [ ] https://www.acmicpc.net/problem/10845
-- [ ] https://www.acmicpc.net/problem/10866
+- [x] https://www.acmicpc.net/problem/10866
 - [ ] https://www.acmicpc.net/problem/10808
-- [ ] https://www.acmicpc.net/problem/10809
+- [x] https://www.acmicpc.net/problem/10809
 - [ ] https://www.acmicpc.net/problem/10820
 - [ ] https://www.acmicpc.net/problem/2743
 - [ ] https://www.acmicpc.net/problem/11655
