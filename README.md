@@ -75,10 +75,10 @@
 - [x] https://www.acmicpc.net/problem/10866
 - [x] https://www.acmicpc.net/problem/10808
 - [x] https://www.acmicpc.net/problem/10809
-- [ ] https://www.acmicpc.net/problem/10820
-- [ ] https://www.acmicpc.net/problem/2743
-- [ ] https://www.acmicpc.net/problem/11655
-- [ ] https://www.acmicpc.net/problem/10824
+- [x] https://www.acmicpc.net/problem/10820
+- [x] https://www.acmicpc.net/problem/2743
+- [x] https://www.acmicpc.net/problem/11655
+- [x] https://www.acmicpc.net/problem/10824
 - [ ] https://www.acmicpc.net/problem/11656
 - [ ] https://www.acmicpc.net/problem/1406
 - [ ] https://www.acmicpc.net/problem/1158
